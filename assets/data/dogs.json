@@ -1,0 +1,9 @@
+{
+  "dogs1":
+  [
+    {"name":"Zorro" , "age": 4, "breed":"Labrodor", "picture":"assets/images/lab.jpg"},
+    {"name":"Cody" , "age": 15, "breed":"Westie", "picture":"assets/images/westie.jpg"},
+    {"name":"Ginger" , "age": 6, "breed":"Beagle", "picture":"assets/images/beagle.jpg"},
+    {"name":"Tippy" , "age": 2, "breed":"Maltese", "picture":"assets/images/maltese.jpg"}
+  ]
+}

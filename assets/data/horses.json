@@ -1,0 +1,9 @@
+{
+  "horses1":
+  [
+    {"name":"Ansel" , "age": 15, "breed":"Akhal-Teke", "picture":"assets/images/ak.jpg"},
+    {"name":"Chester", "age": 7, "breed":"American Quarter Horse", "picture":"assets/images/AQH.jpg"},
+    {"name":"Kit", "age": 5, "breed":"Andalusian", "picture":"assets/images/ak.jpg"}
+  ]
+
+}
